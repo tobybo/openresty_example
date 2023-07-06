@@ -20,3 +20,5 @@ openresty 非容器部署：
 - openresty -s reload -p ./app // 重载配置
 
 - openresty -s stop -p ./app // 停止
+  
+- https://openresty.org/cn/linux-packages.html#centos // 官网
